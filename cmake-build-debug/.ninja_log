@@ -1,0 +1,23 @@
+# ninja log v5
+0	109	7073448526881448	CMakeFiles/untitled2.dir/main.cpp.obj	49042298e961909e
+2	76	7073458740757948	CMakeFiles/untitled2.dir/Query.cpp.obj	d915d594705fc550
+6	115	7073448526946603	CMakeFiles/untitled2.dir/Delete.cpp.obj	b755edc1f6783674
+19	135	7073448527147214	CMakeFiles/untitled2.dir/Sort.cpp.obj	34434294f108e57a
+2	70	7073458836203072	untitled2.exe	91f69a784814f189
+14	141	7073448527207198	CMakeFiles/untitled2.dir/Update.cpp.obj	15d9995523b753e3
+2	80	7073453067567951	CMakeFiles/untitled2.dir/Input.cpp.obj	2eac974dc6676944
+1	141	7073461875403748	build.ninja	dd580cd707374a4
+1	80	7073461876890340	CMakeFiles/untitled2.dir/Delete.cpp.obj	b755edc1f6783674
+4	84	7073461876930331	CMakeFiles/untitled2.dir/main.cpp.obj	49042298e961909e
+14	103	7073461877120057	CMakeFiles/untitled2.dir/Query.cpp.obj	d915d594705fc550
+20	111	7073461877190559	CMakeFiles/untitled2.dir/Sort.cpp.obj	34434294f108e57a
+8	111	7073461877200549	CMakeFiles/untitled2.dir/Input.cpp.obj	2eac974dc6676944
+25	118	7073461877264212	CMakeFiles/untitled2.dir/Update.cpp.obj	15d9995523b753e3
+118	187	7073461877921315	untitled2.exe	91f69a784814f189
+12	78	7073482217971998	CMakeFiles/untitled2.dir/Delete.cpp.obj	b755edc1f6783674
+2	87	7073482218063608	CMakeFiles/untitled2.dir/main.cpp.obj	49042298e961909e
+5	98	7073482218174756	CMakeFiles/untitled2.dir/Input.cpp.obj	2eac974dc6676944
+8	103	7073482218214765	CMakeFiles/untitled2.dir/Query.cpp.obj	d915d594705fc550
+103	178	7073482218943481	untitled2.exe	91f69a784814f189
+2	82	7073489133754071	CMakeFiles/untitled2.dir/Input.cpp.obj	2eac974dc6676944
+83	155	7073489134431998	untitled2.exe	91f69a784814f189
